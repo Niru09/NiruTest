@@ -1,2 +1,2 @@
 # Installation
-`npm i niranjani --save-dev`
+`npm i nirutest --save-dev`
